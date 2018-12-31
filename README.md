@@ -1,2 +1,3 @@
 # belajar-git
-Belajar Git sangat menyenangkan sekali mas bro
+Alhamdulillah.. Belajar Git sangat menyenangkan sekali mas bro
+
