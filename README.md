@@ -1,2 +1,2 @@
 # belajar-git
-Belajar Git sangat menyenangkan sekali bro
+Belajar Git sangat menyenangkan sekali mas bro
